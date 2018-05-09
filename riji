@@ -1,1 +1,9 @@
-fadva\vavd::
+github 的第一个项目在linux下的使用方法
+ 1029  echo “# shuji” >> README.md 
+ 1030  git init 
+ 1031  git add README.md
+ 1032  git commit -m "first commit"
+ 1033  git remote add origin https://github.com/xueheng424115/shuji.git
+ 1034  git push -u origin master 
+ 1035  history 
+
